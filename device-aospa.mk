@@ -101,7 +101,8 @@ PRODUCT_PACKAGES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
-    AOSPAFrameworksOverlayLynx
+    AOSPAFrameworksOverlayLynx \
+    HbmSVManagerOverlayLynx
 
 # Sensors
 PRODUCT_PACKAGES += \
