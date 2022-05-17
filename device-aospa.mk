@@ -23,4 +23,5 @@ TARGET_PREBUILT_KERNEL := device/google/lynx-kernel/Image.lz4
 
 # Overlays
 PRODUCT_PACKAGES += \
-    AOSPAFrameworksOverlayLynx
+    AOSPAFrameworksOverlayLynx \
+    HbmSVManagerOverlayLynx
