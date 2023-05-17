@@ -9,6 +9,7 @@ vendor/bin/hw/android.hardware.biometrics.face-service-lynx
 vendor/bin/hw/android.hardware.biometrics.fingerprint-service.goodix
 vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti
 vendor/bin/hw/android.hardware.confirmationui@1.0-service.trusty.vendor
+vendor/bin/hw/android.hardware.contexthub-service.generic
 vendor/bin/hw/android.hardware.drm-service.widevine
 vendor/bin/hw/android.hardware.edgetpu.logging@service-edgetpu-logging
 vendor/bin/hw/android.hardware.gxp.logging@service-gxp-logging
@@ -151,6 +152,7 @@ vendor/etc/init/android.hardware.biometrics.face-service-lynx.rc
 vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc
 vendor/etc/init/android.hardware.camera.provider@2.7-service-google-apex.rc
 vendor/etc/init/android.hardware.confirmationui@1.0-service.trusty.vendor.rc
+vendor/etc/init/android.hardware.contexthub-service.generic.rc
 vendor/etc/init/android.hardware.drm-service.widevine.rc
 vendor/etc/init/android.hardware.edgetpu.logging@service-edgetpu-logging.rc
 vendor/etc/init/android.hardware.gxp.logging@service-gxp-logging.rc
@@ -224,6 +226,7 @@ vendor/etc/twoshay_config.json
 vendor/etc/vintf/manifest/android.hardware.biometrics.face-service-lynx.xml
 vendor/etc/vintf/manifest/android.hardware.camera.provider@2.7-service-google-apex.xml
 vendor/etc/vintf/manifest/android.hardware.confirmationui@1.0-service.trusty.vendor.xml
+vendor/etc/vintf/manifest/android.hardware.contexthub-service.generic.xml
 vendor/etc/vintf/manifest/android.hardware.identity.strongbox.xml
 vendor/etc/vintf/manifest/android.hardware.neuralnetworks@service-darwinn-aidl.xml
 vendor/etc/vintf/manifest/android.hardware.security.keymint-service.citadel.xml
@@ -1081,6 +1084,7 @@ vendor/lib/vendor.samsung_slsi.telephony.hardware.radioExternal@1.0.so
 vendor/lib/vendor.samsung_slsi.telephony.hardware.radioExternal@1.1.so
 vendor/lib64/android.hardware.authsecret@1.0-impl.nos.so
 vendor/lib64/android.hardware.confirmationui.secure_input_citadel.so
+vendor/lib64/android.hardware.contexthub-V1-ndk.so
 vendor/lib64/android.hardware.identity@1.0-impl.nos.so
 vendor/lib64/android.hardware.keymaster@4.1-impl.nos.so
 vendor/lib64/android.hardware.oemlock@1.0-impl.nos.so
