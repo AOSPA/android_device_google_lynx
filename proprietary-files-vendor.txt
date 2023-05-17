@@ -5,7 +5,6 @@ vendor/bin/bipchmgr
 vendor/bin/cbd
 vendor/bin/chre
 vendor/bin/dmd
-vendor/bin/hw/android.hardware.biometrics.face-service-lynx
 vendor/bin/hw/android.hardware.biometrics.fingerprint-service.goodix
 vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti
 vendor/bin/hw/android.hardware.confirmationui@1.0-service.trusty.vendor
@@ -148,7 +147,6 @@ vendor/etc/database/EccTable_ICCID.xml
 vendor/etc/database/ecc_version
 vendor/etc/displayconfig/display_id_4619827677550801152.xml
 vendor/etc/faceauth_pipeline_input_lynx
-vendor/etc/init/android.hardware.biometrics.face-service-lynx.rc
 vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc
 vendor/etc/init/android.hardware.camera.provider@2.7-service-google-apex.rc
 vendor/etc/init/android.hardware.confirmationui@1.0-service.trusty.vendor.rc
@@ -223,7 +221,6 @@ vendor/etc/sensors/registry/lynx_proto.reg
 vendor/etc/sensors/registry/lynx_pvt.reg
 vendor/etc/touchflow.pb
 vendor/etc/twoshay_config.json
-vendor/etc/vintf/manifest/android.hardware.biometrics.face-service-lynx.xml
 vendor/etc/vintf/manifest/android.hardware.camera.provider@2.7-service-google-apex.xml
 vendor/etc/vintf/manifest/android.hardware.confirmationui@1.0-service.trusty.vendor.xml
 vendor/etc/vintf/manifest/android.hardware.contexthub-service.generic.xml
