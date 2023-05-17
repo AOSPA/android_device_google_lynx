@@ -122,8 +122,6 @@ PRODUCT_PACKAGES += \
     android.frameworks.stats-V1-ndk.vendor:32 \
     android.hardware.authsecret@1.0.vendor:64 \
     android.hardware.biometrics.common-V2-ndk.vendor:64 \
-    android.hardware.biometrics.face-V2-ndk.vendor:64 \
-    android.hardware.biometrics.face@1.0.vendor:64 \
     android.hardware.biometrics.fingerprint-V2-ndk.vendor:64 \
     android.hardware.input.common-V1-ndk.vendor:64 \
     android.hardware.input.processor-V1-ndk.vendor:64 \
