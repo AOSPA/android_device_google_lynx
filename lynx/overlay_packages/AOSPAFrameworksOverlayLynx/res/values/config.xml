@@ -18,9 +18,11 @@
  */
 -->
 <resources>
-    <!-- Fingerprint from a certified device against current platform SPL level -->
-    <string name="config_certifiedFingerprint" translatable="false">google/lynx/lynx:13/TQ2B.230505.005.A1/9808202:user/release-keys</string>
-
-    <!-- Model from a certified device -->
-    <string name="config_certifiedModel" translatable="false">Pixel 7a</string>
+    <!-- Build properties from a GMS certified device against current platform SPL level -->
+    <string-array name="config_certifiedBuildProperties" translatable="false">
+        <item>lynx</item>
+        <item>lynx</item>
+        <item>Pixel 7a</item>
+        <item>google/lynx/lynx:13/TQ2B.230505.005.A1/9808202:user/release-keys</item>
+    </string-array>
 </resources>
