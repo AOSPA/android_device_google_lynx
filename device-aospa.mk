@@ -22,6 +22,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     device/google/lynx/permissions/permissions_com.android.hbmsvmanager.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/permissions_com.android.hbmsvmanager.xml
 
+# For Google Camera
+PRODUCT_COPY_FILES += \
+    device/google/lynx/the_experiences.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/the_experiences.xml
+
 # Build necessary packages for vendor
 
 # Audio
