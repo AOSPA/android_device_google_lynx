@@ -16,6 +16,24 @@
       "message": "override dps with pixel7 to get all features",
       "revId": "4f42dcc11f97930469abfb5822cd217dc9722c58",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c7f11a77_b98e354e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000896
+      },
+      "writtenOn": "2023-05-21T15:54:53Z",
+      "side": 1,
+      "message": "I should override both of them right?",
+      "parentUuid": "58973dd5_d5d7a04a",
+      "revId": "4f42dcc11f97930469abfb5822cd217dc9722c58",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
