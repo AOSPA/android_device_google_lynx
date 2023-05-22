@@ -34,6 +34,24 @@
       "parentUuid": "58973dd5_d5d7a04a",
       "revId": "4f42dcc11f97930469abfb5822cd217dc9722c58",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ff3ece88_82f01769",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2023-05-22T07:11:38Z",
+      "side": 1,
+      "message": "I doubt carrierservices has anything specific to pixel7",
+      "parentUuid": "c7f11a77_b98e354e",
+      "revId": "4f42dcc11f97930469abfb5822cd217dc9722c58",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
