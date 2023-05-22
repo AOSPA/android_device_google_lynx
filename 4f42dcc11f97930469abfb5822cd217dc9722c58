@@ -52,6 +52,24 @@
       "parentUuid": "c7f11a77_b98e354e",
       "revId": "4f42dcc11f97930469abfb5822cd217dc9722c58",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c5cbb754_2dd1c93e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000896
+      },
+      "writtenOn": "2023-05-22T07:55:37Z",
+      "side": 1,
+      "message": "Oh ok, then I\u0027ll just override the DeviceIntelligenceNetwork.",
+      "parentUuid": "ff3ece88_82f01769",
+      "revId": "4f42dcc11f97930469abfb5822cd217dc9722c58",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
