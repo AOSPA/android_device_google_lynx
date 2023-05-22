@@ -70,6 +70,24 @@
       "parentUuid": "aba3c48b_a2f0ba9b",
       "revId": "f54872a3b4221f11757e4518dca5bfbd5dafb1fc",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5daa5b88_a381359c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2023-05-22T10:02:50Z",
+      "side": 1,
+      "message": "looks like you already had those in 30267: lynx: Set up proprietary files extraction | https://gerrit.aospa.co/c/AOSPA/android_device_google_lynx/+/30267",
+      "parentUuid": "1ea248af_620d27ad",
+      "revId": "f54872a3b4221f11757e4518dca5bfbd5dafb1fc",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ],
   "submitRequirementResults": []
