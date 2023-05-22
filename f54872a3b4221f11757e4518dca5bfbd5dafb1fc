@@ -34,6 +34,24 @@
       "parentUuid": "0adf3434_8c415e1f",
       "revId": "f54872a3b4221f11757e4518dca5bfbd5dafb1fc",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "aba3c48b_a2f0ba9b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2023-05-22T07:13:22Z",
+      "side": 1,
+      "message": "https://github.com/ThankYouMario/android_vendor_google_pixel/blob/topaz/proprietary-files.txt#L14 We already do include them, 21/22 are skipped as it would change the DPS version served by playstore, you are free to include it. and no it does not have anything extra",
+      "parentUuid": "8454e005_6a51c6cd",
+      "revId": "f54872a3b4221f11757e4518dca5bfbd5dafb1fc",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
