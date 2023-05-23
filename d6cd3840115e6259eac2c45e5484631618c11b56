@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bcfdbfe3_42170731",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2023-05-23T21:09:33Z",
+      "side": 1,
+      "message": "is this p7a specific or should it be common for gs201 or gs101 and 201 or whatever?",
+      "revId": "d6cd3840115e6259eac2c45e5484631618c11b56",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
