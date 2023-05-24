@@ -16,6 +16,24 @@
       "message": "is this p7a specific or should it be common for gs201 or gs101 and 201 or whatever?",
       "revId": "d6cd3840115e6259eac2c45e5484631618c11b56",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "22e73b2a_3e93ad90",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000896
+      },
+      "writtenOn": "2023-05-24T04:03:57Z",
+      "side": 1,
+      "message": "It shoould be p7a specific as the camera is different for 7a and 7/7Pro.",
+      "parentUuid": "bcfdbfe3_42170731",
+      "revId": "d6cd3840115e6259eac2c45e5484631618c11b56",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
